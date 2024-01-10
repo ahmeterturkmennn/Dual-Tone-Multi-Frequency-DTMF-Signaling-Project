@@ -20,6 +20,7 @@ For both transmitter and receiver components, MATLAB codes and a graphical user 
 - Spectrogram Display: Shows the spectrogram of the generated signal.
 - Save and Play Buttons: For saving and playing the generated signal as audio.
 <br/>
+
 #### Receiver Panel
 - Input Fields: For signaling duration per key (Td ) and resting duration (Tr).
 - Start/Stop Listening Button: Initiates/stops listening via a microphone.
